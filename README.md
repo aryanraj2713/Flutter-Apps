@@ -10,3 +10,21 @@ Another similar app.
 
 
 ![WhatsApp Image 2022-05-30 at 12 39 15 AM](https://user-images.githubusercontent.com/75358720/170887530-803d99c0-2108-4e62-8e0b-ec1c0e442c22.jpeg)
+
+
+<table align="center">
+<tr align="center">
+<td>
+
+**Aryan Raj**
+
+<p align="center">
+<img src = "https://media-exp1.licdn.com/dms/image/C4D03AQEvTogVnAnOvQ/profile-displayphoto-shrink_400_400/0/1630781238410?e=1651708800&v=beta&t=65-rLRpsU0Xt_10KvVYcv1EMyXFFMyuiuy9Sk_u9rhs"  height="120" alt="Aryan raj">
+</p>
+<p align="center">
+<a href = "https://github.com/aryanraj2713"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/aryan-raj-3a68b39a/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
