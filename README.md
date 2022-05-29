@@ -15,7 +15,7 @@ Another similar app.
 <table align="center">
 <tr align="center">
 <td>
-
+# Author of this Repository
 **Aryan Raj**
 
 <p align="center">
