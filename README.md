@@ -11,6 +11,10 @@ Another similar app.
 
 ![WhatsApp Image 2022-05-30 at 12 39 15 AM](https://user-images.githubusercontent.com/75358720/170887530-803d99c0-2108-4e62-8e0b-ec1c0e442c22.jpeg)
 
+# Mi_Card
+Very simple visiting card sort of application.
+
+
 # Author of this Repository
 <table align="center">
 <tr align="center">
