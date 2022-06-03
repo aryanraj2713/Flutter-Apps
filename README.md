@@ -13,6 +13,8 @@ Another similar app.
 
 # Mi_Card
 Very simple visiting card sort of application.
+![WhatsApp Image 2022-06-03 at 4 18 07 PM](https://user-images.githubusercontent.com/75358720/171840052-b56137be-c8a3-4e59-a077-e7d87ac81cba.jpeg)
+
 
 
 # Author of this Repository
